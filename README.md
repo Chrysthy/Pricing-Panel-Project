@@ -1,4 +1,4 @@
-# Pricing Panel Project
+# Pricing Panel Project 💰
 
 📌 Project made in the Web Developer Course by Colt Steele.
 
