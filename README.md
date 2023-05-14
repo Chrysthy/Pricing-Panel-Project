@@ -1,6 +1,6 @@
 # Pricing Panel Project
 
-📌 Mini Training Project made in the Web Developer Course by Colt Steele.
+📌 Project made in the Web Developer Course by Colt Steele.
 
 
 <br>
