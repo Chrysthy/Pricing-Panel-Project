@@ -2,7 +2,7 @@
 
 📌 Project made in the Web Developer Course by Colt Steele.
 
-[Click here](https://chrysthy.github.io/Pricing-Panel-Project/)
+[Check my project here!](https://chrysthy.github.io/Pricing-Panel-Project/)
 
 <br>
 <hr>
